@@ -1,4 +1,4 @@
-public class SelectionSort {
+public class Selection {
 
     /**
      * @param args the command line arguments

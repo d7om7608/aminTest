@@ -21,7 +21,7 @@ public class Selection {
      
     public static void main(String a[]){
          
-        int[] arr1 = {10,34,2,56,7,67,88,42};
+        int[] arr1 = {7,34,2,56,7,67,88,42};
         int[] arr2 = doSelectionSort(arr1);
         for(int i:arr2){
             System.out.print(i);

@@ -1,0 +1,2 @@
+# aminTest
+all think
